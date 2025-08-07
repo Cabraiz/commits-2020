@@ -1,1 +1,3 @@
-0.06473771757396962
+My GitHub Contributions Calendar
+================================
+This repository was generated automatically.
